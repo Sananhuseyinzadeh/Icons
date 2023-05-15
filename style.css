@@ -1,0 +1,21 @@
+
+
+
+
+.all-flowers{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.all-flowers .box{
+    width: 23%;
+}
+
+
+.all-flowers .box img{
+    width: 100%;
+}
+
+
+
